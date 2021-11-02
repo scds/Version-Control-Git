@@ -5,15 +5,12 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-
-<!--
 <img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
 
-# Welcome to Data Visualization with Tableau. 
+# Welcome to Version Control with Git. 
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+This workshop will give you a solid introduction to Git. Git is software originally designed to help manage vast, decentralized software projects with hundreds of authors, but it works just as well with many things that aren’t software, like data and text. Imagine having a complete archive of your work at every stage in its development! This workshop assumes no prior experience.
 
 Proceed to the [Preparation](preparation) page to get started.
--->
+
 
