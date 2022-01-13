@@ -1,7 +1,7 @@
 # << Version Control with Git >>
 Materials for the DMDS workshop: **<<  Version Control with Git  >> **  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/Version-Control-Git) with GitHub Pages   
 
 
 Contributions by the following individuals: 
