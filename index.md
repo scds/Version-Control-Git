@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=https://learn.scds.ca/intro-git"/>
